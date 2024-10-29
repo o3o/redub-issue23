@@ -1,0 +1,11 @@
+{
+	"name": "rname",
+	"sourceFiles": [
+		"app.d"
+	],
+	"sourcePaths": [
+		"."
+	],
+	"targetName": "tname",
+	"targetType": "executable"
+}
